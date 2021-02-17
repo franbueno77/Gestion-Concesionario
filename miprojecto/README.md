@@ -27,11 +27,11 @@
       <a href="#getting-started">Para comenzar</a>
       <ul>
         <li><a href="#prerequisites">Requisitos</a></li>
-        
+           <li><a href="#contact">Contacto</a></li>
       </ul>
     </li>
     
-    <li><a href="#contact">Contacto</a></li>
+ 
    
   </ol>
 </details>
